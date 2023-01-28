@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Bruno
 - 👀 I’m interested in optimization, model predictive control, autonomous systems
+- 🖥️ Senior Expert in Model Predictive Control @ Yokogawa Insilico Biotechnology
 - 🌱 I’m currently a developer of HILO-MPC @hilo-mpc
 
 <!---
