@@ -6,9 +6,9 @@ I'm a engineer working at the intersection of **optimal control**, **machine lea
 
 ### 🎓 Background
 
-- **Dr.-Ing.** (equivalent to PhD in Engineering) – TU Darmstadt, CCPS Laboratory
+- PhD in Engineering – TU Darmstadt, CCPS Laboratory
   - Thesis focus: Model predictive control, machine learning, and state estimation with applications on bioreactors and trajectory drilling
-- **Process Modelling Scientists and Machine Learning Engineer** – Yokogawa Insilico Biotechnology
+- **Currently: Process Modelling Scientists and Machine Learning Engineer** – Yokogawa Insilico Biotechnology
 
 ---
 
