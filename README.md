@@ -1,5 +1,30 @@
-👋 Hi, I'm Bruno
-🧠 I work on [optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), [model predictive control](https://en.wikipedia.org/wiki/Model_predictive_control), [autonomous systems](https://en.wikipedia.org/wiki/Autonomous_robot), and [machine learning](https://en.wikipedia.org/wiki/Machine_learning).
-🖥️ Senior Expert in Model Predictive Control at [Yokogawa Insilico Biotechnology](https://www.insilico-biotechnology.com/).
-🚀 Developer of [HILO-MPC](https://github.com/hilo-mpc/hilo-mpc) ([@hilo-mpc](https://github.com/hilo-mpc)), an open-source toolbox for machine learning and optimal control.
-🔬 Interested in [digital twins](https://en.wikipedia.org/wiki/Digital_twin), [hybrid modeling](https://en.wikipedia.org/wiki/Hybrid_model), and data-driven optimization for complex systems.
+## 👋 Hi, I'm Bruno Morabito
+
+I'm a engineer working at the intersection of **optimal control**, **machine learning**, and **biotechnology**. My work focuses on model predictive control (MPC), state estimation, and data-driven methods for complex biological systems such as bioreactors.
+
+---
+
+### 🎓 Background
+
+- **Dr.-Ing.** (equivalent to PhD in Engineering) – TU Darmstadt, CCPS Laboratory
+  - Thesis focus: Model predictive control, machine learning, and state estimation with applications on bioreactors and trajectory drilling
+- **Process Modelling Scientists and Machine Learning Engineer** – Yokogawa Insilico Biotechnology
+
+---
+
+### 🔬 Research Interests
+
+- Model Predictive Control (MPC) and Moving Horizon Estimation (MHE)
+- Reinforcement Learning for control and state estimation
+- Digital twins and hybrid modeling
+- Data-driven optimization for bioprocesses
+- Uncertainty quantification in complex systems
+
+---
+
+### 🚀 Projects
+
+| Project | Description |
+|---|---|
+| [HILO-MPC](https://github.com/hilo-mpc/hilo-mpc) | Open-source Python toolbox for easy-to-use machine learning-supported optimal control |
+
