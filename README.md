@@ -27,4 +27,5 @@ I'm a engineer working at the intersection of **optimal control**, **machine lea
 | Project | Description |
 |---|---|
 | [HILO-MPC](https://github.com/hilo-mpc/hilo-mpc) | Open-source Python toolbox for easy-to-use machine learning-supported optimal control |
+| [HILO-MPC-UI](https://github.com/hilo-mpc/hilo-mpc-ui) | UI for HILO-MPC |
 
